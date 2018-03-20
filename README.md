@@ -1,3 +1,8 @@
+# jupyter-notebook-testing
+
+An exploration of running automated assertions in jupyter notebooks.
+
+
 # References
 
 * [pytest FEATURE: run pytest in Jupyter notebooks #2268](https://github.com/pytest-dev/pytest/issues/2268)
