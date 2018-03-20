@@ -24,3 +24,9 @@ An exploration of running automated assertions in jupyter notebooks.
   Plugin for pytest to run IPython notebook cells as unit tests
 
   * [Write unit tests as cells of IPython notebooks](https://zonca.github.io/2014/09/unit-tests-ipython-notebook.html)
+
+* [ipython_nose](https://github.com/taavi/ipython_nose)  
+  Nose magic for IPython
+
+  * [akaihola ipython_nose fork](https://github.com/akaihola/ipython_nose/)
+
