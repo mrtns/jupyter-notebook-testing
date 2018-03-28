@@ -18,6 +18,8 @@ An exploration of running automated assertions in jupyter notebooks.
 * [ipytest](https://github.com/chmp/ipytest)  
   Unit tests in IPython notebooks
 
+  * [ipytest - a IPython test runner](http://cprohm.de/article/ipytest-a-ipython-test-runner.html)
+
   * [ipytest: running pytest in IPython notebooks](http://cprohm.de/article/ipytest-running-pytest-in-ipython-notebooks.html)
 
 * [pytest-ipynb](https://github.com/zonca/pytest-ipynb)  
@@ -29,4 +31,10 @@ An exploration of running automated assertions in jupyter notebooks.
   Nose magic for IPython
 
   * [akaihola ipython_nose fork](https://github.com/akaihola/ipython_nose/)
+
+* [conftest.py](akaihol://gist.github.com/timo/2621679)  
+  collect ipython notebook files for py.test runs
+
+* [ipnbdoctest.py](https://gist.github.com/minrk/2620735)  
+  simple example script for running and testing notebooks.
 
