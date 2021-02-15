@@ -38,3 +38,9 @@ An exploration of running automated assertions in jupyter notebooks.
 * [ipnbdoctest.py](https://gist.github.com/minrk/2620735)  
   simple example script for running and testing notebooks.
 
+* [ipython-unittest](https://github.com/JoaoFelipe/ipython-unittest)  
+  pytest ipython cell magic
+
+  * [jupyter-dojo](https://github.com/JoaoFelipe/jupyter-dojo)  
+    JupyterLab and Jupyter Notebook extension for rendering unittest results
+
